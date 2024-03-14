@@ -1,7 +1,7 @@
 ---
 title: "Design of a Coordinates Aware Remote Module for Effective Oil and Gas Pipeline Monitoring Using GPRS, GPS and Google Maps on Android Devices"
 collection: publications
-permalink:https://onepetro.org/SPENAIC/proceedings-abstract/15NAIC/All-15NAIC/184495
+permalink: https://onepetro.org/SPENAIC/proceedings-abstract/15NAIC/All-15NAIC/184495
 excerpt: 'This paper aims at addressing security challenges faced by oil and gas industries with greater emphasis on oil and gas pipeline security. It also unveils a design of an intelligent security system capable of detecting and tracking intruders within a specified perimeter and also real time transfer of data from such locations of security breach to remote devices.'
 date: 2015-08
 venue: 'Lagos, Nigeria'
