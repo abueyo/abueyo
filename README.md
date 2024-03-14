@@ -1,34 +1,28 @@
 
-# Academic Pages
+# Abu Eyo Abu
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
 
 
-# Getting Started
+# About Me
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+I am currently a second year PhD student at University of Aberdeen, conduction research on continual unsupervised learning methods for autonomous agents, supervised by Dr. Andrew Starkey. I obtained my Masters degree in IT at the University of the West of England, Bristol in 2019, a few years after completeing my Bachelor degree in Electronics Engineering at the University of Nigeria in 2015. I have gained considerable experience in industry working in different roles and consulting, IT and Oil and Gas as well as interned breifly with some companies in the growth phase.
 
-See more info at https://academicpages.github.io/
-
-## Running Locally
-
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+See more info at www.linkedin.com/in/abuabu
 
 
-# Maintenance 
+## Research InterestsLocally
+
+I am generally interested in Robotic Navigation using explainable AI models.
+
+Variations of Self Organising Maps
+Robotic Navigation
+Sensor Fusion
+Feature Weighting
+
+
+# Publications 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
